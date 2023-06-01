@@ -6,7 +6,9 @@ export default function App() {
   return (
     <>
       <div id="body">
-        <p>test</p>
+        <div id="output">
+          
+        </div>
       </div>
     </>
   )
