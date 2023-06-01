@@ -1,12 +1,13 @@
 import { useState } from 'react'
 import './App.css'
 
-function App() {
+export default function App() {
 
   return (
     <>
+      <div id="body">
+        <p>test</p>
+      </div>
     </>
   )
 }
-
-export default App
